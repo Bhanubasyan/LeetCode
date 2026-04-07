@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
