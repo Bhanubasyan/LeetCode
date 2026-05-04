@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Bhanubasyan/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
