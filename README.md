@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Bhanubasyan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0065-valid-number) |
+| [1143-longest-common-subsequence](https://github.com/Bhanubasyan/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhanubasyan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Bhanubasyan/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
