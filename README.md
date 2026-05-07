@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhanubasyan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Bhanubasyan/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0064-minimum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Bhanubasyan/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 <!---LeetCode Topics End-->
