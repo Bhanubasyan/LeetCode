@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Bhanubasyan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0213-house-robber-ii) |
@@ -76,12 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Bhanubasyan/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
