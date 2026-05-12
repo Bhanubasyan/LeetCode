@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Bhanubasyan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
