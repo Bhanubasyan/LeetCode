@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Bhanubasyan/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bhanubasyan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bhanubasyan/LeetCode/tree/master/0051-n-queens) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
