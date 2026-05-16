@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Bhanubasyan/LeetCode/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/Bhanubasyan/LeetCode/tree/master/0354-russian-doll-envelopes) |
 ## Merge Sort
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Bhanubasyan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0065-valid-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0065-valid-number) |
+| [0242-valid-anagram](https://github.com/Bhanubasyan/LeetCode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/Bhanubasyan/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Bhanubasyan/LeetCode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
