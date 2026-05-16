@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Bhanubasyan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Bhanubasyan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/Bhanubasyan/LeetCode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/Bhanubasyan/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Bhanubasyan/LeetCode/tree/master/0354-russian-doll-envelopes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhanubasyan/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
