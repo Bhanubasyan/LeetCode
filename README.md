@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0189-rotate-array) |
