@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhanubasyan/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Bhanubasyan/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Bhanubasyan/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Bhanubasyan/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Bhanubasyan/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
