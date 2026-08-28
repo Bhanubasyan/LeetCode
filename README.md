@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Bhanubasyan/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bhanubasyan/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Bhanubasyan/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Bhanubasyan/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhanubasyan/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanubasyan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhanubasyan/LeetCode/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Bhanubasyan/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
