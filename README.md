@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhanubasyan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Bhanubasyan/LeetCode/tree/master/0061-rotate-list) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanubasyan/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bhanubasyan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanubasyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhanubasyan/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Bhanubasyan/LeetCode/tree/master/0037-sudoku-solver) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhanubasyan/LeetCode/tree/master/0011-container-with-most-water) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Bhanubasyan/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Backtracking
 |  |
